@@ -1,0 +1,54 @@
+<html prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113641432-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      //gtag('config', 'UA-113641432-1');
+    </script>
+
+    <title>Explorer360 - Redmond Labs</title>
+    <style>body { margin: 0; }</style>
+    <link rel="manifest" href="./static_assets/manifest.json">
+    <link rel="apple-touch-icon" sizes="180x180" href="./static_assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./static_assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./static_assets/favicon-16x16.png">
+    <link rel="mask-icon" href="./static_assets/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="./static_assets/favicon.ico">
+    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="msapplication-config" content="./static_assets/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="./static_assets/style.css" type="text/css" />
+    <meta property="og:title" content="Explorer360 - Redmond Labs" />
+    <meta property="og:description" content="Immerse, inform, entertain: A new way to share your experiences using 360 degree panoramas. Make them interactive with informative popups, quizzes, or games. Embed them on your blog, website, or social media." />
+    <meta property="og:image" content="https://exp1.redmondlabs.com/static_assets/shareimage.jpg" />
+    <meta property="og:type" content="website" /> 
+    <meta property="fb:app_id" content="436461586770695" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!--<script src="http://192.168.1.8:8080/target/target-script-min.js#anonymous"></script>-->
+  </head>
+  <body>
+    <!-- Attachment point for your app -->
+    <div id="container"></div>
+    <script src="./client.bundle.js?platform=vr"></script>
+    <script>
+      // Initialize the React 360 application
+      React360.init(
+        'index.bundle.js?platform=vr&dev=true',
+        document.getElementById('container'),
+        {
+          assetRoot: 'static_assets/',
+        }
+      );
+    </script>
+    <script async defer src="https://apis.google.com/js/api.js"
+      onload="this.onload=function(){};React360.handleClientLoad()"
+      onreadystatechange="if (this.readyState === 'complete') this.onload()">
+    </script>
+  </body>
+</html>

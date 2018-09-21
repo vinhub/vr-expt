@@ -1,0 +1,1520 @@
+{
+  "scenes" : {
+    "-KycfvUkLTsz4AbasFz0" : {
+      "locInfos" : {
+        "4" : {
+          "info" : "Symbiosis College is a multi-lingual, multi-national, multi-cultural and multi-disciplinary educational complex of international repute. Symbiosis was formed to promote global understanding between Indian & foreign students through education.",
+          "location" : [ {
+            "rotateY" : -154
+          }, {
+            "translate" : [ 0, 0.6, -4 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Symbiosis College"
+          }, {
+            "isCorrect" : false,
+            "text" : "Fergusson College"
+          }, {
+            "isCorrect" : false,
+            "text" : "BMCC"
+          }, {
+            "isCorrect" : false,
+            "text" : "College of Engineering, Pune"
+          } ],
+          "prompt" : "What is the name of this college?",
+          "type" : "mcq"
+        },
+        "-KrIgKpcKKU4KyG8wDmA" : {
+          "location" : [ {
+            "rotateY" : -19.075424824307618
+          }, {
+            "matrix" : [ 0.1722664088010788, 0, -0.98505038022995, 0, 0.17159320414066315, 0.9847107529640198, 0.030008358880877495, 0, 0.9699897170066833, -0.17419737577438354, 0.16963258385658264, 0, -3.8799588680267334, 0.6967895030975342, -0.6785303354263306, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Hanuman Temple"
+          }, {
+            "isCorrect" : false,
+            "text" : "Flag pole"
+          }, {
+            "isCorrect" : false,
+            "text" : "Pagoda"
+          }, {
+            "isCorrect" : false,
+            "text" : "Helipad"
+          } ],
+          "prompt" : "What structure can be found behind these bushes?",
+          "type" : "mcq"
+        },
+        "-KrIyPvsoroVYyWVf_l_" : {
+          "location" : [ {
+            "rotateY" : -39.002348383321014
+          }, {
+            "matrix" : [ 0.12572060525417328, 0, 0.9920656681060791, 0, -0.12416843324899673, 0.9921363592147827, 0.015735380351543427, 0, -0.9842644333839417, -0.12516149878501892, 0.12473198771476746, 0, 3.9370577335357666, 0.5006459951400757, -0.4989279508590698, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Sinhgad Fort"
+          }, {
+            "isCorrect" : false,
+            "text" : "Parvati Temple"
+          }, {
+            "isCorrect" : false,
+            "text" : "Shaniwar Wada"
+          }, {
+            "isCorrect" : false,
+            "text" : "Raigad Fort"
+          } ],
+          "prompt" : "What is at the top of this mountain?",
+          "type" : "mcq"
+        },
+        "-KrWrN3X0JAduey-LvRI" : {
+          "location" : [ {
+            "rotateY" : -10.11157793303836
+          }, {
+            "matrix" : [ 0.45649704337120056, 0, 0.8897249102592468, 0, -0.0745624378323555, 0.996482253074646, 0.038256242871284485, 0, -0.8865951299667358, -0.0838039219379425, 0.4548912048339844, 0, 3.5463805198669434, 0.33521568775177, -1.8195648193359375, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Parvati Temple"
+          }, {
+            "isCorrect" : false,
+            "text" : "Hanuman Temple"
+          }, {
+            "isCorrect" : false,
+            "text" : "Sinhgad Fort"
+          }, {
+            "isCorrect" : false,
+            "text" : "Raigad Fort"
+          } ],
+          "prompt" : "What is at the top of this hill?",
+          "type" : "mcq"
+        },
+        "-KwvAQBPPBRvQK3MNZXj" : {
+          "info" : "Hanuman Tekdi, also known as Fergusson Hill, is a small hill behind the Fergusson College campus in Pune. It is popular among locals for daily exercise that also provides a great view of the main city.",
+          "location" : [ {
+            "rotateY" : -0.27899999999999997
+          }, {
+            "matrix" : [ 0.9829027056694031, 0, -0.18412576615810394, 0, -0.04858679324388504, 0.9645559787750244, -0.2593666911125183, 0, 0.17759960889816284, 0.2638782858848572, 0.9480646848678589, 0, -0.7103984355926514, -1.0555131435394287, -3.7922587394714355, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "Taljai Tekdi"
+          }, {
+            "isCorrect" : false,
+            "text" : "Vetal Tekdi"
+          }, {
+            "isCorrect" : false,
+            "text" : "Parvati"
+          }, {
+            "isCorrect" : true,
+            "text" : "Fegusson Hill"
+          } ],
+          "prompt" : "What's another name for this hill?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.4,
+      "source" : "HanumanTekdi.jpg",
+      "title" : "Hanuman Tekdi, Pune",
+      "type" : "quiz"
+    },
+    "-KycfvUomiZO3vjmcku0" : {
+      "locInfos" : {
+        "-L7BNkhpydt6FqaA8N_p" : {
+          "location" : [ {
+            "matrix" : [ -0.7628610802592367, 0, -0.646562427168259, 0, -0.20721143935360808, 0.9472546999322573, 0.2444830318391333, 0, 0.6124592979347413, 0.320481720939352, -0.7226237436709612, 0, -2.449837191738965, -1.281926883757408, 2.8904949746838446, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7VP8XEuqXggX35odBy" : {
+          "location" : [ {
+            "matrix" : [ -0.31484746833671495, 0, -0.9491422821063032, 0, -0.28043363925906356, 0.9553550914078849, 0.09302485309286739, 0, 0.9067679116807558, 0.2954600638344075, -0.30079113189236345, 0, -3.627071646723023, -1.18184025533763, 1.2031645275694538, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7VPKEnQauKbdZQOjRP" : {
+          "location" : [ {
+            "matrix" : [ -0.7716408601714194, 0, 0.6360584744454805, 0, -0.04970519286547017, 0.996941954106423, -0.06030036438259145, 0, -0.6341133784396276, -0.07814563418686223, -0.7692811470076559, 0, 2.5364535137585102, 0.3125825367474489, 3.0771245880306237, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7VPLOMOT-N6EmQDu_W" : {
+          "location" : [ {
+            "matrix" : [ -0.5031293741367637, 0, 0.8642111043493648, 0, -0.09141556490781767, 0.9943896416707747, -0.053220625987045404, 0, -0.8593625703818691, -0.10577920654773507, -0.5003066380618976, 0, 3.4374502815274766, 0.42311682619094027, 2.0012265522475903, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7VPNyJXhWe9lM-PBXp" : {
+          "location" : [ {
+            "matrix" : [ 0.5366273606324141, 0, 0.8438193383780019, 0, -0.08391914275180215, 0.9950424055377469, 0.05336842382398803, 0, -0.8396360242989171, -0.09945155193185354, 0.5339669798010493, 0, 3.3585440971956686, 0.39780620772741415, -2.1358679192041974, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7VPVWfMXuicwS39eOv" : {
+          "location" : [ {
+            "matrix" : [ 0.700332451193767, 0, -0.713816823705445, 0, -0.2379105017666177, 0.9428231267005267, -0.23341624816580162, 0, 0.6730030096174061, 0.33329349192362406, 0.6602896313643513, 0, -2.6920120384696244, -1.3331739676944963, -2.641158525457405, 1 ]
+          } ],
+          "type" : "hidden"
+        }
+      },
+      "rank" : 0.6,
+      "source" : "ShilsholeMarina.JPG",
+      "title" : "Shilshiole Marina, Seattle",
+      "type" : "huntArtefact"
+    },
+    "-KycfvUpD80cwAXDoKpE" : {
+      "locInfos" : {
+        "-KwHLsDNweHP22V5wQZX" : {
+          "location" : [ {
+            "rotateY" : -8.318
+          }, {
+            "matrix" : [ 0.6311695575714111, 0, -0.7756448984146118, 0, 0.4751109480857849, 0.790442168712616, 0.38661453127861023, 0, 0.6131024360656738, -0.6125366687774658, 0.4989030361175537, 0, -2.4524097442626953, 2.4501466751098633, -1.9956121444702148, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Gasification plant"
+          }, {
+            "isCorrect" : false,
+            "text" : "Oil refinery"
+          }, {
+            "isCorrect" : false,
+            "text" : "Historical fort"
+          }, {
+            "isCorrect" : false,
+            "text" : "Steamboat"
+          } ],
+          "prompt" : "What is this structure?",
+          "type" : "mcq"
+        },
+        "-Kwv50DGmE4uM_dlR30R" : {
+          "location" : [ {
+            "rotateY" : -0.12100000000000001
+          }, {
+            "matrix" : [ -0.2739528715610504, 0, 0.9617431163787842, 0, -0.18132330477237701, 0.98206627368927, -0.05165000632405281, 0, -0.944495439529419, -0.18853610754013062, -0.2690398693084717, 0, 3.777981758117676, 0.7541444301605225, 1.0761594772338867, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Columbia Center"
+          }, {
+            "isCorrect" : false,
+            "text" : "Space Needle"
+          }, {
+            "isCorrect" : false,
+            "text" : "Two Union Square"
+          }, {
+            "isCorrect" : false,
+            "text" : "Smith Tower"
+          } ],
+          "prompt" : "What's the tallest structure in Seattle?",
+          "type" : "mcq"
+        },
+        "-Kwv5zs_cYI0JCT5OrNk" : {
+          "location" : [ {
+            "rotateY" : -0.12100000000000001
+          }, {
+            "matrix" : [ -0.9152822494506836, 0, -0.4028130769729614, 0, 0.0670270025730133, 0.98605877161026, -0.15230047702789307, 0, 0.3971973955631256, -0.16639728844165802, -0.9025221467018127, 0, -1.5887895822525024, 0.6655891537666321, 3.610088586807251, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Aurora Bridge"
+          }, {
+            "isCorrect" : false,
+            "text" : "Fremont Bridge"
+          }, {
+            "isCorrect" : false,
+            "text" : "Ship Canal Bridge"
+          }, {
+            "isCorrect" : false,
+            "text" : "Montlake Bridge"
+          } ],
+          "prompt" : "What's the name of this bridge?",
+          "type" : "mcq"
+        },
+        "-Kxy_Ss0KR5bQHMnOaLh" : {
+          "location" : [ {
+            "rotateY" : -10.503523222222224
+          }, {
+            "matrix" : [ -0.6775713624291623, 0, 0.7354570339699587, 0, 0.02064243268138357, 0.999606030406643, 0.01901772719512619, 0, -0.735167286261354, 0.028067489639682683, -0.6773044199150356, 0, 2.9406691450454163, -0.11226995855873076, 2.709217679660143, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Lake Union"
+          }, {
+            "isCorrect" : false,
+            "text" : "Puget Sound"
+          }, {
+            "isCorrect" : false,
+            "text" : "Greenlake"
+          }, {
+            "isCorrect" : false,
+            "text" : "Lake Washington"
+          } ],
+          "prompt" : "What is the name of this body of water?",
+          "type" : "mcq"
+        },
+        "-KxzIxd-qNMARw8qdh_m" : {
+          "location" : [ {
+            "rotateY" : -2.12
+          }, {
+            "matrix" : [ 0.6314239083781503, 0, 0.7754378427240066, 0, -0.1624655074290836, 0.9778055303025819, 0.13229249338302315, 0, -0.7582274110214373, -0.20951454581886875, 0.6174097895774261, 0, 3.0329096440857493, 0.838058183275475, -2.4696391583097044, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Capitol Hill"
+          }, {
+            "isCorrect" : false,
+            "text" : "First Hill"
+          }, {
+            "isCorrect" : false,
+            "text" : "Queen Anne Hill"
+          }, {
+            "isCorrect" : false,
+            "text" : "Beacon Hill"
+          } ],
+          "prompt" : "What is the name of this hill?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.4,
+      "source" : "GasWorks.jpeg",
+      "title" : "Gas Works Park, Seattle",
+      "type" : "quiz"
+    },
+    "-KycfvUsyJ1jLGW9TocX" : {
+      "locInfos" : {
+        "-L7BRBHMDv8KceDls0Kz" : {
+          "location" : [ {
+            "matrix" : [ 0.5658439527021297, 0, 0.8245123535705392, 0, -0.05065994353041479, 0.9981106364307744, 0.03476675948732667, 0, -0.8229545499673268, -0.06144230988296611, 0.5647748677520278, 0, 3.291818199869307, 0.24576923953186444, -2.259099471008111, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L89o_-nFfZhSwS9HLE-" : {
+          "location" : [ {
+            "matrix" : [ -0.5069525427713316, 0, 0.8619739667633131, 0, 0.7496080858733116, 0.49368427255585123, 0.4408668241366661, 0, -0.4255429907436277, 0.869641212817677, -0.25027449729840395, 0, 1.7021719629745105, -3.4785648512707072, 1.0010979891936156, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L89ofBqV6V0xY6sHiem" : {
+          "location" : [ {
+            "matrix" : [ 0.23858531046639161, 0, 0.9711215421509585, 0, 0.9685236055675314, 0.07309738267264382, -0.23794704895181737, 0, -0.07098644298825658, 0.9973248079970785, 0.017439961739233352, 0, 0.2839457719530263, -3.989299231988313, -0.0697598469569334, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L89og0MelgIrDsQdtnz" : {
+          "location" : [ {
+            "matrix" : [ 0.6727804125276625, 0, 0.7398422240715302, 0, 0.6577790300400966, 0.45775157031724856, -0.5981557050731884, 0, -0.3386639398557486, 0.8890801425473934, 0.30796629031322376, 0, 1.3546557594229942, -3.556320570189573, -1.2318651612528948, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L89oiateoJ7iaJhemSE" : {
+          "location" : [ {
+            "matrix" : [ -0.9991327169968489, 0, 0.0416390901256809, 0, 0.03669791688823045, 0.47249508647556976, 0.8805689388983174, 0, -0.01967426548969764, 0.881333304293242, -0.4720852995179971, 0, 0.07869706195879055, -3.525333217172967, 1.888341198071988, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L89olUzJ5vbib5pBDo1" : {
+          "location" : [ {
+            "matrix" : [ 0.5338849449292286, 0, 0.8455571332428782, 0, 0.07621086422284946, 0.995929923535312, -0.04811955508266963, 0, -0.8421156510553174, 0.09013094588956488, 0.531711992380021, 0, 3.3684626042212686, -0.3605237835582595, -2.1268479695200835, 1 ]
+          } ],
+          "type" : "hidden"
+        }
+      },
+      "rank" : 0.4,
+      "source" : "WhiteRock.JPG",
+      "title" : "White Rock, Canada",
+      "type" : "huntArtefact"
+    },
+    "-KycfvUsyJ1jLGW9TocY" : {
+      "locInfos" : {
+        "-L7BRPdH7pddVRYbHoRe" : {
+          "location" : [ {
+            "matrix" : [ 0.394665689293856, 0, 0.9188247894425823, 0, 0.7457561560695026, 0.5841561292678003, -0.32032697720189135, 0, -0.5367371324760803, 0.8116413103328719, 0.23054638141270717, 0, 2.1469485299043214, -3.2465652413314876, -0.9221855256508287, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BRQpKfYl6LU-B71VW" : {
+          "location" : [ {
+            "matrix" : [ 0.9952334893838047, 0, -0.09752077526833085, 0, -0.0613399031748749, 0.7774108125565276, -0.6259950836857241, 0, 0.0758137051424956, 0.6289931863861482, 0.7737052756653319, 0, -0.3032548205699824, -2.515972745544593, -3.0948211026613275, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BRTzOlBoeutGxriEq" : {
+          "location" : [ {
+            "matrix" : [ 0.974885482844104, 0, -0.22270674740523339, 0, 0.019770971602048173, 0.9960516330949389, 0.08654624712150447, 0, 0.22182741945424472, -0.08877580869192639, 0.9710362772674177, 0, -0.8873096778169787, 0.3551032347677055, -3.88414510906967, 1 ]
+          } ],
+          "type" : "hidden"
+        }
+      },
+      "rank" : 0.4,
+      "source" : "LaConner.JPG",
+      "title" : "La Conner, Washington",
+      "type" : "huntArtefact"
+    },
+    "-KycfvUsyJ1jLGW9TocZ" : {
+      "locInfos" : {
+        "-L7BRrisZXbxlXHMmfv3" : {
+          "location" : [ {
+            "matrix" : [ 0.01219836192990824, 0, -0.9999255972152262, 0, -0.49325601489515575, 0.8698633772673985, -0.006017363102367131, 0, 0.8697986570097572, 0.49329271724702756, 0.010610908305480045, 0, -3.479194628039028, -1.9731708689881098, -0.04244363322192017, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BRvHBFf_MJ9Wry5HK" : {
+          "location" : [ {
+            "matrix" : [ 0.9775486871134378, 0, -0.2107096683182664, 0, -0.08266754933516915, 0.9198248866877654, -0.3835208652951707, 0, 0.19381599678486608, 0.3923291702510013, 0.899173610355892, 0, -0.7752639871394643, -1.5693166810040051, -3.596694441423568, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BRxSoan32ooy59Z9y" : {
+          "location" : [ {
+            "matrix" : [ 0.9458392522682173, 0, 0.32463534753427553, 0, 0.08125420579251565, 0.9681699373002415, -0.2367376745452112, 0, -0.31430218406770155, 0.2502937724116339, 0.9157331295646269, 0, 1.2572087362708062, -1.0011750896465357, -3.6629325182585077, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BS025Ub0gghc_VSYV" : {
+          "location" : [ {
+            "matrix" : [ -0.38928524018264177, 0, 0.9211172573434628, 0, -0.14461617126376206, 0.9875984711856816, -0.06111810468850641, 0, -0.9096939951351517, -0.15700082710516203, -0.3844575080595278, 0, 3.638775980540607, 0.6280033084206481, 1.537830032238111, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BS6tA583jko5BY-u9" : {
+          "location" : [ {
+            "matrix" : [ -0.09850514232265847, 0, -0.9951365418554344, 0, -0.40663189942412076, 0.9127049621388197, 0.04025109262998493, 0, 0.9082660597571203, 0.40861920180918554, -0.08990613219408104, 0, -3.63306423902848, -1.6344768072367417, 0.3596245287763241, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BS9GjraEgs3gKoTSo" : {
+          "location" : [ {
+            "matrix" : [ 0.047355256567602054, 0, -0.9988781105197052, 0, -0.18916314298386872, 0.9819047212252673, -0.008967930195681649, 0, 0.980803132647873, 0.1893756014789925, 0.04649834999856231, 0, -3.923212530591492, -0.75750240591597, -0.18599339999424924, 1 ]
+          } ],
+          "type" : "hidden"
+        }
+      },
+      "rank" : 0.4,
+      "source" : "RosarioPoint.JPG",
+      "title" : "Rosario Point, Washington",
+      "type" : "huntArtefact"
+    },
+    "-KycfvUtjx6bW6jkRYuW" : {
+      "locInfos" : {
+        "-L7BSL8j7U2jnejRsC5R" : {
+          "location" : [ {
+            "matrix" : [ -0.0951286379421325, 0, 0.995464987954511, 0, 0.4175382351595006, 0.907782875363684, 0.039900794181723806, 0, -0.903666069089221, 0.41944040243691677, -0.08635614848053988, 0, 3.614664276356883, -1.6777616097476666, 0.34542459392215946, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BSP7gGuvmfSUwH_h7" : {
+          "location" : [ {
+            "matrix" : [ 0.911757161049385, 0, 0.4107296912510294, 0, -0.14413553167672216, 0.9364033732162114, 0.31995885850773037, 0, -0.3846086683675169, -0.35092552290949314, 0.8537724811606804, 0, 1.5384346734700676, 1.4037020916379725, -3.4150899246427215, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BSUpXV9YmH603QXVu" : {
+          "location" : [ {
+            "matrix" : [ 0.03949977001267842, 0, -0.9992195795564385, 0, 0.2015093857133263, 0.9794541917018225, 0.007965791057262722, 0, 0.9786898056270862, -0.201666770583877, 0.03868821531017582, 0, -3.914759222508344, 0.8066670823355078, -0.15475286124070325, 1 ]
+          } ],
+          "type" : "hidden"
+        },
+        "-L7BSeV8ZJUB2HnzWqmN" : {
+          "location" : [ {
+            "matrix" : [ 0.10738828242890415, 0, -0.9942171577663351, 0, 0.05348392197157251, 0.9985520000962089, 0.0057769537301010565, 0, 0.9927775314175422, -0.053795010027520074, 0.10723278420627883, 0, -3.971110125670168, 0.21518004011008024, -0.4289311368251152, 1 ]
+          } ],
+          "type" : "hidden"
+        }
+      },
+      "rank" : 0.4,
+      "source" : "RosarioLawn.JPG",
+      "title" : "Rosario Lawn, Washington",
+      "type" : "huntArtefact"
+    },
+    "-KycfvUtjx6bW6jkRYuX" : {
+      "rank" : 0.4,
+      "source" : "IssaquahTrail.jpeg",
+      "title" : "Trail in Issaquah, Washington",
+      "type" : "huntArtefact"
+    },
+    "-KycfvUtjx6bW6jkRYuY" : {
+      "locInfos" : {
+        "-KvESx81U7NNrAXKSDKc" : {
+          "location" : [ {
+            "rotateY" : -1.58
+          }, {
+            "matrix" : [ 0.9706099629402161, 0, -0.24065808951854706, 0, 0.06308475881814957, 0.9650313854217529, 0.25443023443222046, 0, 0.23224259912967682, -0.2621343731880188, 0.9366690516471863, 0, -0.9289703965187073, 1.0485374927520752, -3.746676206588745, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Little Tahoma"
+          }, {
+            "isCorrect" : false,
+            "text" : "Little Rainier"
+          }, {
+            "isCorrect" : false,
+            "text" : "R2"
+          }, {
+            "isCorrect" : false,
+            "text" : "Mt. St. Helens"
+          } ],
+          "prompt" : "What is the name of this peak?",
+          "type" : "mcq"
+        },
+        "-KvET-UoEevx_BngU82W" : {
+          "location" : [ {
+            "rotateY" : -1.58
+          }, {
+            "matrix" : [ 0.9983757734298706, 0, 0.05697237327694893, 0, -0.017408337444067, 0.95217365026474, 0.3050612211227417, 0, -0.05424759164452553, -0.305557519197464, 0.9506270885467529, 0, 0.2169903665781021, 1.222230076789856, -3.8025083541870117, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Tahoma"
+          }, {
+            "isCorrect" : false,
+            "text" : "Hinhan Kaga"
+          }, {
+            "isCorrect" : false,
+            "text" : "Mt. Baker"
+          }, {
+            "isCorrect" : false,
+            "text" : "Denali"
+          } ],
+          "prompt" : "What was the original name of Mt. Rainier?",
+          "type" : "mcq"
+        },
+        "-KvEyYmwAVvGQOmO8WPU" : {
+          "location" : [ {
+            "rotateY" : -5.142
+          }, {
+            "matrix" : [ 0.0077153099700808525, 0, 0.9999702572822571, 0, 0.3888623118400574, 0.9212909936904907, -0.0030002824496477842, 0, -0.921263575553894, 0.3888738751411438, 0.0071080452762544155, 0, 3.685054302215576, -1.5554955005645752, -0.028432181105017662, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Igneous"
+          }, {
+            "isCorrect" : false,
+            "text" : "Sedimentary"
+          }, {
+            "isCorrect" : false,
+            "text" : "Metamorphic"
+          }, {
+            "isCorrect" : false,
+            "text" : "Slate"
+          } ],
+          "prompt" : "What type of this rock is this most likely to be?",
+          "type" : "mcq"
+        },
+        "-Kxy_iDuvng5XlMtD83Z" : {
+          "location" : [ {
+            "rotateY" : -6.603
+          }, {
+            "matrix" : [ 0.40605772454607086, 0, -0.913847429463183, 0, 0.09841992273274976, 0.9941836101509819, 0.04373177467746059, 0, 0.908532136550902, -0.10769841831317958, 0.40369593451890573, 0, -3.634128546203608, 0.43079367325271833, -1.614783738075623, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "The Cascades"
+          }, {
+            "isCorrect" : false,
+            "text" : "The Rockies"
+          }, {
+            "isCorrect" : false,
+            "text" : "Sierra Nevada"
+          }, {
+            "isCorrect" : false,
+            "text" : "The Olympics"
+          } ],
+          "prompt" : "What is the name of the mountain range these mountains are a part of?",
+          "type" : "mcq"
+        },
+        "-KxybqABjH9j4URkMc9g" : {
+          "location" : [ {
+            "rotateY" : -15.144238058811489
+          }, {
+            "matrix" : [ 0.9972656585200249, 0, 0.07389997521394089, 0, -0.014536793223307096, 0.9804619081604511, 0.19617117089203012, 0, -0.07245611071127052, -0.19670904058117733, 0.9777809904954324, 0, 0.2898244428450821, 0.7868361623247093, -3.9111239619817297, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Stratovolcano"
+          }, {
+            "isCorrect" : false,
+            "text" : "Cryovolcano"
+          }, {
+            "isCorrect" : false,
+            "text" : "Supervolcano"
+          }, {
+            "isCorrect" : false,
+            "text" : "Subglacial Volcano"
+          } ],
+          "prompt" : "What type of volcano is Mt. Rainier?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.6,
+      "source" : "SunrisePoint1.JPG",
+      "title" : "Sunrise Point, Mt. Rainier",
+      "type" : "quiz"
+    },
+    "-KycfvUyQT2oEtRObSNx" : {
+      "source" : "KeechelusLake1.JPG",
+      "title" : "Keechelus Lake 1"
+    },
+    "-KycfvUyQT2oEtRObSNy" : {
+      "source" : "KeechelusLake2.JPG",
+      "title" : "Keechelus Lake 2"
+    },
+    "-Kywo7VFc-Ob61Hms0I0" : {
+      "locInfos" : {
+        "-KyxEksd0w-akkHULTvz" : {
+          "location" : [ {
+            "rotateY" : -1.078
+          }, {
+            "matrix" : [ 0.9802783168395662, 0, -0.19762191562219739, 0, 0.07234693545553994, 0.9305803884020506, 0.35886774952854217, 0, 0.18390307899646174, -0.36608761344996166, 0.9122277768266721, 0, -0.735612315985847, 1.4643504537998466, -3.6489111073066884, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Anthocyanins"
+          }, {
+            "isCorrect" : false,
+            "text" : "Carotenoids"
+          }, {
+            "isCorrect" : false,
+            "text" : "Lignins"
+          }, {
+            "isCorrect" : false,
+            "text" : "Chlorophyll"
+          } ],
+          "prompt" : "What type of chemical gives red color to leaves?",
+          "type" : "mcq"
+        },
+        "-KyxFkrjbOUGenKC3wh-" : {
+          "location" : [ {
+            "rotateY" : -1.078
+          }, {
+            "matrix" : [ 0.17851692448581852, 0, -0.98393684130239, 0, 0.2851658926872929, 0.9570807654262238, 0.05173801406135522, 0, 0.9417070252047522, -0.28982133884714845, 0.17085511472842255, 0, -3.766828100819009, 1.1592853553885938, -0.6834204589136902, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Carotenoids"
+          }, {
+            "isCorrect" : false,
+            "text" : "Anthocyanins"
+          }, {
+            "isCorrect" : false,
+            "text" : "Chlorophyll"
+          }, {
+            "isCorrect" : false,
+            "text" : "Lignins"
+          } ],
+          "prompt" : "What type of chemical gives yellow color to leaves?",
+          "type" : "mcq"
+        },
+        "-KyxG2eTrRuU5ytrrMp4" : {
+          "location" : [ {
+            "rotateY" : -1.078
+          }, {
+            "matrix" : [ 0.9060644939887543, 0, 0.4231396137599299, 0, -0.0072141757383265325, 0.9998546524780343, 0.015447640157844673, 0, -0.42307811146562435, -0.01704916179844964, 0.9059327997598119, 0, 1.692312445862497, 0.06819664719379855, -3.6237311990392467, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Chlorophyll"
+          }, {
+            "isCorrect" : false,
+            "text" : "Anthocyanins"
+          }, {
+            "isCorrect" : false,
+            "text" : "Lignins"
+          }, {
+            "isCorrect" : false,
+            "text" : "Carotinoids"
+          } ],
+          "prompt" : "What type of chemical gives green color to grass?",
+          "type" : "mcq"
+        },
+        "-KyxHLKYhtzS3H0Cpzin" : {
+          "location" : [ {
+            "rotateY" : -1.078
+          }, {
+            "matrix" : [ -0.09687231794031784, 0, 0.9952968170434736, 0, -0.13894600078153566, 0.990207614809626, -0.013523625248021517, 0, -0.9855504872322309, -0.13960257724351452, -0.0959237068887619, 0, 3.942201948928923, 0.558410308974058, 0.38369482755504747, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Lignins"
+          }, {
+            "isCorrect" : false,
+            "text" : "Cholrophyll"
+          }, {
+            "isCorrect" : false,
+            "text" : "Carotenoids"
+          }, {
+            "isCorrect" : false,
+            "text" : "Anthocyanins"
+          } ],
+          "prompt" : "What type of chemical gives the brown color to tree bark?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.6,
+      "source" : "FallColors.jpg",
+      "title" : "Fall Colors, WA",
+      "type" : "quiz"
+    },
+    "-L3ezdINPX8BL65Z_qCF" : {
+      "locInfos" : {
+        "-L439EE5_6r8S-dbakyo" : {
+          "info" : "The Trocadéro, site of the Palais de Chaillot, is an area of Paris in the 16th arrondissement. It is across the river Seine from the Eiffel Tower. The hill of the Trocadéro is the hill of Chaillot, a former village. It contains multiple museums, including a naval museum and an ethnology museum. It also contains a garden, called the Jardins du Trocadéro. This is a popular spot to view the Eiffel Tower from.",
+          "location" : [ {
+            "matrix" : [ -0.9999957709938254, 0, -0.0029082631353891065, 0, 1.6017672804439242E-4, 0.9984821419173383, -0.05507618918897791, 0, 0.002903848804682549, -0.05507642210750707, -0.9984779193301949, 0, -0.011615395218730196, 0.2203056884300283, 3.9939116773207797, 1 ]
+          } ],
+          "name" : "Place du Trocadero",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Place du Trocadero"
+          }, {
+            "isCorrect" : false,
+            "text" : "Arc de Triomphe"
+          }, {
+            "isCorrect" : false,
+            "text" : "Palais-Royal"
+          }, {
+            "isCorrect" : false,
+            "text" : "Conciergerie"
+          } ],
+          "prompt" : "What's the name of this place?",
+          "type" : "mcq"
+        },
+        "-L43C39xs0oRviPbgZ0F" : {
+          "action" : "https://www.restaurants-toureiffel.com/index.cfm/page/lid/2/rid/4152/",
+          "info" : "The Eiffel Tower contains 3 restaurants: Le 58 Tour Eiffel (on the first floor), Le Jules Verne (on the second floor), and Le Bar à Champagne (at the top of the tower). Le Jules Verne is the more formal restaurant with a Michelin star. Le 58 Tour Eiffel offers diners a relaxed and family-friendly setting for a chic lunchtime picnic, before being transformed into a chic bistro come evening. Le Bar à Champagne is the perfect place to savor a flute of champagne as you take in the City of Lights.",
+          "location" : [ {
+            "matrix" : [ 0.9431597286145849, 0, 0.3323397754101407, 0, -0.21549966824703667, 0.7612727775599338, 0.611574730618917, 0, -0.25300122392012236, -0.6484317683042555, 0.7180018262850983, 0, 1.0120048956804895, 2.593727073217022, -2.8720073051403934, 1 ]
+          } ],
+          "name" : "Restaurants on the Eiffel Tower",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Brasserie de la Tour Eiffel"
+          }, {
+            "isCorrect" : false,
+            "text" : "Le 58 Tour Eiffel"
+          }, {
+            "isCorrect" : false,
+            "text" : "Le Jules Verne"
+          }, {
+            "isCorrect" : false,
+            "text" : "Le Bar à Champagne"
+          } ],
+          "prompt" : "Which of the following restaurants / bars isn't in the Eiffel Tower?",
+          "type" : "mcq"
+        },
+        "-L43EKtKyGSmm2jVa-kb" : {
+          "action" : "https://en.wikipedia.org/wiki/List_of_the_72_names_on_the_Eiffel_Tower",
+          "info" : "The names of 72 French scientists, engineers, and mathematicians are engraved on the Eiffel Tower. Gustave Eiffel chose this invocation of science because of his concern over the protests against the tower when it was being built. The engravings are found on the sides of the tower under the first balcony, in gold letters about 60 cm high. Some of the famous names include Lagrange, Fourier, Laplace, Legendre, Lavoisier, Ampere, Le Chatelier, Cauchy, Fresnel, Coulomb, Foucault, Poisson, and Carnot.",
+          "location" : [ {
+            "matrix" : [ 0.9386872445148231, 0, -0.34476986090023654, 0, 0.2028487131393077, 0.8085992771586747, 0.5522858033266791, 0, 0.2787806603100282, -0.5883597615222071, 0.7590218273927544, 0, -1.1151226412401127, 2.3534390460888286, -3.0360873095710175, 1 ]
+          } ],
+          "name" : "Names Engraved on the Eiffel Tower",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Scientists and Mathematicians"
+          }, {
+            "isCorrect" : false,
+            "text" : "Painters and Sculptors"
+          }, {
+            "isCorrect" : false,
+            "text" : "Singers and Musicians"
+          }, {
+            "isCorrect" : false,
+            "text" : "Politicians and Royalty"
+          } ],
+          "prompt" : "The names of 72 of these are engraved on the tower:",
+          "type" : "mcq"
+        },
+        "-L43NNrh5fq2X1CpGmaD" : {
+          "info" : "Tour Montparnasse is a 58 story office tower in the Paris city center. The 56th floor, with a restaurant called le Ciel de Paris, and the terrace on the top floor, are open to the public for viewing the city. The tower's simple architecture, large proportions and monolithic appearance have been often criticized for being out of place in Paris's urban landscape. As a result, two years after its completion the construction of buildings over seven stories high in the city center was banned.",
+          "location" : [ {
+            "matrix" : [ 0.9991785935305565, 0, -0.04052330478007944, 0, 0.005873937914412716, 0.9894386743124111, 0.14483303017018154, 0, 0.040095324960359585, -0.14495209475857562, 0.988625942984213, 0, -0.1603812998414383, 0.5798083790343024, -3.954503771936851, 1 ]
+          } ],
+          "name" : "Tour Montparnasse",
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "Tour Societe Generale"
+          }, {
+            "isCorrect" : false,
+            "text" : "Tour First"
+          }, {
+            "isCorrect" : true,
+            "text" : "Tour Montparnasse"
+          }, {
+            "isCorrect" : false,
+            "text" : "Tour Total"
+          } ],
+          "prompt" : "What is the name of this building?",
+          "type" : "mcq"
+        },
+        "-L4hG1UPiiZ8h7m5027M" : {
+          "info" : "Look carefully at the emblem on the car. It's the Renault emblem. Groupe Renault is a French multinational automobile manufacturer established in 1899. It is headquartered in Boulogne-Billancourt, near Paris. Renault was the best-selling French car brand in 2017.",
+          "location" : [ {
+            "matrix" : [ -0.38666057329306436, 0, 0.9222220996379771, 0, 0.19003773221222367, 0.9785382976777413, 0.07967722581505825, 0, -0.9024296434605382, 0.2060650382232479, -0.37836217916929465, 0, 3.609718573842153, -0.8242601528929916, 1.5134487166771786, 1 ]
+          } ],
+          "name" : "Renault",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Renault"
+          }, {
+            "isCorrect" : false,
+            "text" : "Citroen"
+          }, {
+            "isCorrect" : false,
+            "text" : "Peugeot"
+          }, {
+            "isCorrect" : false,
+            "text" : "Volkswagen"
+          } ],
+          "prompt" : "What's the brand name of this car? Look carefully.",
+          "type" : "mcq"
+        }
+      },
+      "nextScene" : "-L3f-LVdYI7pGPUFrYBd",
+      "rank" : 0.8,
+      "source" : "EiffelTower.jpg",
+      "title" : "Eiffel Tower, Paris",
+      "tourTitle" : "Paris, France",
+      "type" : "quiz"
+    },
+    "-L3ezpbCcDwoVN3NE84m" : {
+      "source" : "GizaPyramids.jpg",
+      "title" : "Pyramids of Giza, Egypt"
+    },
+    "-L3eztrs0P7jp-vi0zoi" : {
+      "source" : "GoldenGateBridge.jpg",
+      "title" : "Golden Gate Bridge, San Francisco"
+    },
+    "-L3ezz9JPD4msA15T6_H" : {
+      "source" : "KinkakujiTempleKyoto.jpg",
+      "title" : "Kinkakuji Temple, Kyoto"
+    },
+    "-L3f-33JhQPPrF2ggImM" : {
+      "source" : "LasVegasStrip.jpg",
+      "title" : "Las Vegas Strip"
+    },
+    "-L3f-6jntNFBLKOZl4PR" : {
+      "source" : "LondonEye.jpg",
+      "title" : "London Eye, UK"
+    },
+    "-L3f-ByywVjrFN_1sL26" : {
+      "locInfos" : {
+        "-L4hHyuXNsr2AP82hzzz" : {
+          "location" : [ {
+            "matrix" : [ 0.09373594833811254, 0, 0.9955970932004344, 0, -0.22893836306771176, 0.9732022516652726, 0.021554657722174353, 0, -0.9689173328540632, -0.229950815074971, 0.0912240359846308, 0, 3.875669331416253, 0.919803260299884, -0.3648961439385232, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Hirshhorn Museum"
+          }, {
+            "isCorrect" : false,
+            "text" : "A water tank"
+          }, {
+            "isCorrect" : false,
+            "text" : "Capital One Arena"
+          }, {
+            "isCorrect" : false,
+            "text" : "A skating rink"
+          } ],
+          "prompt" : "What's this building?",
+          "type" : "mcq"
+        },
+        "-L4hIfJwaWrM5SnlS8Nt" : {
+          "location" : [ {
+            "matrix" : [ 0.778274062405054, 0, -0.6279247437293215, 0, 0.13105124024658954, 0.9779785711528439, 0.1624299442703603, 0, 0.6140969436639175, -0.20870532903076933, 0.7611353555162141, 0, -2.45638777465567, 0.8348213161230773, -3.0445414220648566, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "National Gallery of Art"
+          }, {
+            "isCorrect" : false,
+            "text" : "Smithsonian National Museum of Natural History"
+          }, {
+            "isCorrect" : false,
+            "text" : "The White House"
+          }, {
+            "isCorrect" : false,
+            "text" : "Smithsonian National Air and Space Museum"
+          } ],
+          "prompt" : "What's this building?",
+          "type" : "mcq"
+        },
+        "-L4hJKo_0XzpGjnApfL3" : {
+          "location" : [ {
+            "matrix" : [ -0.9007246433701499, 0, -0.4343905118965151, 0, 0.05616361161591144, 0.9916064463594705, -0.11645730663466473, 0, 0.43074443183397454, -0.1292929059861494, -0.8931643627606756, 0, -1.7229777273358977, 0.5171716239445975, 3.5726574510427014, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Smithsonian National Museum of Natural History"
+          }, {
+            "isCorrect" : false,
+            "text" : "Smithsonian National Air and Space Museum"
+          }, {
+            "isCorrect" : false,
+            "text" : "The White House"
+          }, {
+            "isCorrect" : false,
+            "text" : "National Gallery of Art"
+          } ],
+          "prompt" : "What's this building?",
+          "type" : "mcq"
+        },
+        "-L4hKF0umQfDVxfbMGo6" : {
+          "location" : [ {
+            "matrix" : [ 0.9931059842562002, 0, -0.11721989606941273, 0, 0.020189206573086625, 0.9850561311428933, 0.17104623478973358, 0, 0.11546817731510772, -0.17223361605039658, 0.9782651386662675, 0, -0.4618727092604309, 0.6889344642015863, -3.91306055466507, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "The US Capitol"
+          }, {
+            "isCorrect" : false,
+            "text" : "The National Circus"
+          }, {
+            "isCorrect" : false,
+            "text" : "The National Puppet Show"
+          }, {
+            "isCorrect" : false,
+            "text" : "The National Zoo"
+          } ],
+          "prompt" : "What's this building?",
+          "type" : "mcq"
+        },
+        "-L4hKuonoDYc001WdLBW" : {
+          "location" : [ {
+            "matrix" : [ -0.910817122109973, 0, 0.4128100895948477, 0, -0.04233376665784319, 0.9947278280041005, -0.09340449879317367, 0, -0.4106336838008611, -0.10255022278983454, -0.9060151375853993, 0, 1.642534735203444, 0.41020089115933805, 3.6240605503415964, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "Fort Washington"
+          }, {
+            "isCorrect" : false,
+            "text" : "Smithsonian National Museum of Natural History"
+          }, {
+            "isCorrect" : false,
+            "text" : "The National Circus"
+          }, {
+            "isCorrect" : true,
+            "text" : "Smithsonian Castle"
+          } ],
+          "prompt" : "What's this building?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.6,
+      "source" : "NationalMallWashingtonDC.jpg",
+      "title" : "National Mall, Washington DC",
+      "type" : "quiz"
+    },
+    "-L3f-Gu5oA-rhhqdGhaH" : {
+      "locInfos" : {
+        "-L43R_GzDR89X61rctT0" : {
+          "info" : "The Tower Hotel (opened in 1962) is on the Canadian side of the Niagara falls. It was the first of the contemporary observation towers built near the brink of the Falls. It features an indoor observation deck, restaurant, wedding chapel, and hotel. The tower is 99 meters (325 feet) tall. It was previously called the Minolta Tower.",
+          "location" : [ {
+            "matrix" : [ -0.04983829347037048, 0, 0.9987573001004605, 0, -0.3734814864632857, 0.927450401620864, -0.018636839927212715, 0, -0.9262978590999419, -0.37394618935523066, -0.04622254529519359, 0, 3.7051914363997676, 1.4957847574209227, 0.18489018118077435, 1 ]
+          } ],
+          "name" : "Tower Hotel (Niagara Falls)",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Tower Hotel"
+          }, {
+            "isCorrect" : false,
+            "text" : "Niagara Falls Observation Tower"
+          }, {
+            "isCorrect" : false,
+            "text" : "Skylon Tower"
+          }, {
+            "isCorrect" : false,
+            "text" : "CN Tower"
+          } ],
+          "prompt" : "What is this structure?",
+          "type" : "mcq"
+        },
+        "-L43TTO3KNKcDloTsrwn" : {
+          "info" : "This is the only restaurant overlooking the Niagara Falls. It is on Goat Island. It overlooks the Terrapin Point next to the Horseshoe Falls, which is one of the 3 falls that make up the Niagara Falls.",
+          "location" : [ {
+            "matrix" : [ 0.7275878547018914, 0, -0.6860145141979863, 0, 0.038454636752237, 0.998427674772066, 0.04078503599972777, 0, 0.684935876270584, -0.05605513579722725, 0.7264438499624053, 0, -2.739743505082336, 0.224220543188909, -2.905775399849621, 1 ]
+          } ],
+          "name" : "Top of the Falls Restaurant",
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "Niagara Falls IMAX Theater"
+          }, {
+            "isCorrect" : false,
+            "text" : "Niagara Falls Visitors Center"
+          }, {
+            "isCorrect" : false,
+            "text" : "Journey Behind the Falls Attraction"
+          }, {
+            "isCorrect" : true,
+            "text" : "Top of the Falls Restaurant"
+          } ],
+          "prompt" : "What is this building?",
+          "type" : "mcq"
+        },
+        "-L43VhPRuWlsmlGuPNAd" : {
+          "info" : "This boat tour starts off at a calm part of the Niagara River, near the Rainbow Bridge, and takes its passengers past the American and Bridal Veil Falls, then into the dense mist of spray inside the curve of the Horseshoe Falls, also known as the Canadian Falls. The tour starts and returns on the U.S. side of the river. Some of the famous people who have taken this tour include Marilyn Monroe, King Edward VII, Mikhail Gorbachev, The Prince of Wales, Lady Diana, and their two young sons, Princes William and Harry.",
+          "location" : [ {
+            "matrix" : [ 0.9949793862460602, 0, -0.10008007266890584, 0, -0.024320075307993294, 0.9700247422552007, -0.24178613142557467, 0, 0.09708014669553713, 0.24300617155276474, 0.9651546226925722, 0, -0.38832058678214854, -0.972024686211059, -3.860618490770289, 1 ]
+          } ],
+          "name" : "Maid of the Mist",
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "The Falls Fairy"
+          }, {
+            "isCorrect" : true,
+            "text" : "The Maid of the Mist"
+          }, {
+            "isCorrect" : false,
+            "text" : "The Spray Ship"
+          }, {
+            "isCorrect" : false,
+            "text" : "The Cascade Coaster"
+          } ],
+          "prompt" : "What is the name of this tour?",
+          "type" : "mcq"
+        },
+        "-L43ZcipuFaYLnvuAMPm" : {
+          "info" : "Niagara Falls is actually a collection made up of 3 falls. From the largest to the smallest, the three waterfalls are the Horseshoe Falls, the American Falls and the Bridal Veil Falls. The Horseshoe Falls lies on the border of the United States and Canada with the American Falls entirely on the United States' side, separated by Goat Island. The smaller Bridal Veil Falls are also on the United States' side, separated from the other waterfalls by Luna Island.",
+          "location" : [ {
+            "matrix" : [ 0.3181715916662283, 0, -0.9480331419610704, 0, 0.00818143220480726, 0.9999627617106109, 0.0027457893521825407, 0, 0.9479978388285795, -0.008629901047429014, 0.3181597435004224, 0, -3.791991355314317, 0.03451960418971605, -1.2726389740016895, 1 ]
+          } ],
+          "name" : "Bridal Veil Falls (Niagara Falls)",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Ontario Falls"
+          }, {
+            "isCorrect" : false,
+            "text" : "American Falls"
+          }, {
+            "isCorrect" : false,
+            "text" : "Bridal Veil Falls"
+          }, {
+            "isCorrect" : false,
+            "text" : "Horshoe Falls"
+          } ],
+          "prompt" : "Which of these is not a part of the Niagar Falls?",
+          "type" : "mcq"
+        },
+        "-L43_Lbyuo_BvVmF57YK" : {
+          "info" : "The Niagara Falls International Rainbow Bridge, commonly known as the Rainbow Bridge, is an arch bridge across the Niagara River gorge, and is a world-famous tourist site. It connects the cities of Niagara Falls, New York, United States (to the east), and Niagara Falls, Ontario, Canada (west).",
+          "location" : [ {
+            "matrix" : [ -0.12967288812446193, 0, -0.9915568274614727, 0, 0.034839498033759776, 0.9993825345446767, -0.004556207174136654, 0, 0.9909445753735254, -0.035136158683868754, -0.12959281959555308, 0, -3.9637783014941017, 0.14054463473547502, 0.5183712783822123, 1 ]
+          } ],
+          "name" : "Bridal Veil Falls (Niagara Falls)",
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "Niagara Bridge"
+          }, {
+            "isCorrect" : false,
+            "text" : "Friendship Bridge"
+          }, {
+            "isCorrect" : false,
+            "text" : "Misty Bridge"
+          }, {
+            "isCorrect" : true,
+            "text" : "Rainbow Bridge"
+          } ],
+          "prompt" : "What's the name of this bridge?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.8,
+      "source" : "NiagaraFalls.jpg",
+      "title" : "Niagara Falls, NY",
+      "type" : "quiz"
+    },
+    "-L3f-LVdYI7pGPUFrYBd" : {
+      "locInfos" : {
+        "-L7QW6d7UGsFWB6qh7Ke" : {
+          "action" : "https://www.fjp2.com/news/world/19990-a-monument-of-st-john-paul-ii-unveiled-in-paris",
+          "info" : "This is a bronze statue of Pope John Paul II by Russian sculptor Zurab Tsereteli. It was unveiled in October 2014. It is a gift from the Russian people who wanted to express their appreciation for the role John Paul II played in the fall of Soviet totalitarianism.",
+          "location" : [ {
+            "matrix" : [ 0.7865452608805886, 0, -0.6175326328108394, 0, 0.17069418990903457, 0.961038878538784, 0.2174115164111951, 0, 0.5934728688976315, -0.2764132303941273, 0.755900575436676, 0, -2.373891475590526, 1.1056529215765092, -3.023602301746704, 1 ]
+          } ],
+          "name" : "Pope John Paul II Statue",
+          "type" : "info"
+        },
+        "-L7Q_K1X7ki9yTT7QOMc" : {
+          "info" : "The river Seine cuts through the city of Paris. It offers a great way to see the city from a different perspective. Tourists can take one of the river cruises that start either from the docks at the Notre Dame or Eiffel Tower.",
+          "location" : [ {
+            "matrix" : [ -0.9180310382180362, 0, 0.3965085281154928, 0, 0.03972589817027729, 0.9949683970316647, 0.0919768553648384, 0, -0.39451345462845666, 0.10018926543417535, -0.9134118705211144, 0, 1.5780538185138266, -0.4007570617367014, 3.6536474820844576, 1 ]
+          } ],
+          "name" : "Seine River",
+          "type" : "info"
+        },
+        "-L7RmsK_EjBmCJ8dAtnF" : {
+          "action" : "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+          "info" : "Notre-Dame de Paris, meaning \"Our Lady of Paris\", is a medieval Catholic cathedral in Paris, France. The cathedral is widely considered to be one of the finest examples of French Gothic architecture, and it is among the largest and best-known church buildings in the Catholic Church in France, and in the world.",
+          "location" : [ {
+            "matrix" : [ 0.006994199996133526, 0, -0.9999755402840681, 0, 0.6585597170505925, 0.7525143732169676, 0.004606211037062439, 0, 0.7524959669291641, -0.6585758256282069, 0.005263236026244538, 0, -3.0099838677166564, 2.6343033025128277, -0.02105294410497815, 1 ]
+          } ],
+          "name" : "Notre Dame Cathedral (Side View)",
+          "type" : "info"
+        },
+        "-L7VRGjoXy5Int81lnDm" : {
+          "action" : "https://en.wikipedia.org/wiki/Pont_au_Double",
+          "info" : "\"Elegant cast iron bridge, built in 1882, offering views of Notre Dame cathedral & lit up at night. It derives its name from the toll amount which was charged, a \"double\" denier, money used to pay for the construction of the bridge.\"",
+          "location" : [ {
+            "matrix" : [ -0.865370636406099, 0, -0.5011323793630812, 0, 0.014260042639319964, 0.9995950562829915, -0.024624675399443043, 0, 0.5009294489546686, -0.028455640119371045, -0.8650202100040028, 0, -2.003717795818674, 0.11382256047748415, 3.46008084001601, 1 ]
+          } ],
+          "name" : "Pont au Double Bridge",
+          "type" : "info"
+        },
+        "-LAZ0sPT0k3oNqZCCJxF" : {
+          "info" : "The Pont de l'Archevêché (Archbishop's Bridge) is a bridge crossing the Seine river in Paris, France. It offers a great view of the back side of the Notre Dame cathedral. Lovers have been known to place their 'love padlocks' on this bridge. The padlocks are removed from time to time because they are too heavy for this small bridge.",
+          "location" : [ {
+            "matrix" : [ 0.611754010904062, 0, 0.7910480580488095, 0, -0.019879682677937525, 0.9996841711860613, 0.01537387708621098, 0, -0.7907982222788675, -0.02513081534764466, 0.611560801360376, 0, 3.16319288911547, 0.10052326139057864, -2.446243205441504, 1 ]
+          } ],
+          "name" : "Pont de l'Archevêché",
+          "type" : "info"
+        }
+      },
+      "nextScene" : "-LA-bvoE1i0MQdjF0rpz",
+      "rank" : 0.7,
+      "source" : "NotreDameParis.jpg",
+      "title" : "Notre Dame Cathedral, Paris",
+      "type" : "visit"
+    },
+    "-L3f-POpsvUjCKkLmegi" : {
+      "source" : "RedSquareMoscow.jpg",
+      "title" : "Red Square, Moscow"
+    },
+    "-L3f-UbuP2_7KY10UO0l" : {
+      "source" : "StatueOfLiberty.jpg",
+      "title" : "Statue Of Liberty, NY"
+    },
+    "-L3f-YGILKQwtBW9Ni_C" : {
+      "action" : "https://www.expedia.com/",
+      "locInfos" : {
+        "-L43iRik1KAbuP-UcyDu" : {
+          "action" : "https://en.wikipedia.org/wiki/Taj_Mahal",
+          "info" : "This one of the two red sandstone buildings on two sides of the Taj Mahal. The mosque's basic design of a long hall surmounted by three domes is similar to others built by Shah Jahan, particularly the Jama Masjid in Delhi. The floor of the mosque is laid with outlines of 569 prayer rugs in black marble.",
+          "location" : [ {
+            "matrix" : [ 0.5565794305372209, 0, -0.8307944014633601, 0, 0.11096263599356906, 0.9910404473663856, 0.07433791157406268, 0, 0.823350855295737, -0.133562089246292, 0.5515927278345356, 0, -3.293403421182948, 0.534248356985168, -2.2063709113381424, 1 ]
+          } ],
+          "name" : "Mosque on the West Side",
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "A gate"
+          }, {
+            "isCorrect" : true,
+            "text" : "A mosque"
+          }, {
+            "isCorrect" : false,
+            "text" : "An official building"
+          }, {
+            "isCorrect" : false,
+            "text" : "A guesthouse"
+          } ],
+          "prompt" : "What is this structure?",
+          "type" : "mcq"
+        },
+        "-L43iptxBDBnAGbkcEkt" : {
+          "action" : "https://en.wikipedia.org/wiki/Taj_Mahal",
+          "info" : "The four minarets surrounding the Taj Mahal tilt slightly outward. Various explanations have been provided for this, including the fact that it would protect the main tomb in case of a collapse or that the tilt creates an optical illusion, making the pillars look perfectly vertical, or that the tilt is a result of structural decay over time.",
+          "location" : [ {
+            "matrix" : [ 0.7215724694181419, 0, 0.6923389136671466, 0, -0.39107805222979236, 0.8251833008176948, 0.40759106604017414, 0, -0.571306510064393, -0.5648650458752195, 0.5954295520936375, 0, 2.285226040257572, 2.259460183500878, -2.38171820837455, 1 ]
+          } ],
+          "name" : "The Minarets",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "tilt away from the center"
+          }, {
+            "isCorrect" : false,
+            "text" : "go straight up vertically"
+          }, {
+            "isCorrect" : false,
+            "text" : "tilt towards the center"
+          }, {
+            "isCorrect" : false,
+            "text" : "tilted in various directions"
+          } ],
+          "prompt" : "The minarets of the Taj Mahal:",
+          "type" : "mcq"
+        },
+        "-L43jOw0gtzhgMzV39-k" : {
+          "action" : "https://en.wikipedia.org/wiki/Taj_Mahal",
+          "info" : "The Taj Mahal was commissioned in 1632. Construction of the mausoleum was essentially completed in 1643 but work continued on other phases of the project for another 10 years. The entire complex is believed to have been completed in its entirety in 1653 at a cost estimated at the time to be around 32 million rupees, which in 2015 would be approximately 52.8 billion rupees (U.S. $827 million). The construction project employed some 20,000 artisans under the guidance of a board of architects led by the court architect to the emperor, Ustad Ahmad Lahauri.",
+          "location" : [ {
+            "matrix" : [ 0.9490039515421707, 0, -0.3152641748714012, 0, 0.1029773395279858, 0.9451494332816481, 0.3099809934675308, 0, 0.29797175621371125, -0.32663825368039706, 0.8969505469821273, 0, -1.191887024854845, 1.3065530147215882, -3.587802187928509, 1 ]
+          } ],
+          "name" : "Construction of the Taj Mahal",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "20-25 years"
+          }, {
+            "isCorrect" : false,
+            "text" : "5-10 years"
+          }, {
+            "isCorrect" : false,
+            "text" : "10-15 years"
+          }, {
+            "isCorrect" : false,
+            "text" : "15-20 years"
+          } ],
+          "prompt" : "About how many years did it take to construct the Taj Mahal?",
+          "type" : "mcq"
+        },
+        "-L43mmjsLFUyxcFyuQbR" : {
+          "action" : "https://en.wikipedia.org/wiki/Taj_Mahal",
+          "info" : "This one of the two red sandstone buildings on two sides of the Taj Mahal. The guesthouse is thought to be a response (Jawab) to the mosque on the west side, constructed for architectural balance. Its floor contains geometric designs and it does not have a 'mihrab' (a niche in a mosque's wall facing Mecca).",
+          "location" : [ {
+            "matrix" : [ 0.43013543861602715, 0, 0.9027643681751059, 0, -0.12470196455304694, 0.9904136244983158, 0.059416095838754915, 0, -0.8941101299522385, -0.1381334586843806, 0.4260119987848722, 0, 3.576440519808954, 0.5525338347375224, -1.704047995139489, 1 ]
+          } ],
+          "name" : "The Guesthouse",
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "A gate"
+          }, {
+            "isCorrect" : false,
+            "text" : "An official building"
+          }, {
+            "isCorrect" : false,
+            "text" : "A mosque"
+          }, {
+            "isCorrect" : true,
+            "text" : "A guesthouse"
+          } ],
+          "prompt" : "What is this building?",
+          "type" : "mcq"
+        },
+        "-L43zYNffa8wqvJF3UH_" : {
+          "action" : "https://en.wikipedia.org/wiki/Shah_Jahan",
+          "info" : "Shah Jahan and Mumtaz Mahal got engaged when they were about 14 or 15 years old. They married in 1612 (1021 AH), on a date selected by the court astrologers as most conducive to ensuring a happy marriage. This was an unusually long engagement for the time.",
+          "location" : [ {
+            "matrix" : [ 0.9724477444206661, 0, 0.23312096510429686, 0, -0.08089586139936146, 0.9378605475899093, 0.33745140818021563, 0, -0.21863495598740404, -0.3470123820187908, 0.9120203740849382, 0, 0.8745398239496162, 1.3880495280751632, -3.6480814963397528, 1 ]
+          } ],
+          "name" : "The Engagement",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "5 years"
+          }, {
+            "isCorrect" : false,
+            "text" : "6 months"
+          }, {
+            "isCorrect" : false,
+            "text" : "1 year"
+          }, {
+            "isCorrect" : false,
+            "text" : "3 years"
+          } ],
+          "prompt" : "How long were Shah Jahan and Mumtaz Mahal engaged?",
+          "type" : "mcq"
+        },
+        "-L43zn7oYhYYf4JRozuG" : {
+          "action" : "https://en.wikipedia.org/wiki/Taj_Mahal",
+          "info" : "The main gateway is a monumental structure built primarily of marble, and reminiscent of the Mughal architecture of earlier emperors. Its archways mirror the shape of the tomb's archways, and its pishtaq arches incorporate the calligraphy that decorates the tomb. The vaulted ceilings and walls have elaborate geometric designs like those found in the other sandstone buildings in the complex.",
+          "location" : [ {
+            "matrix" : [ -0.9802490023041045, 0, -0.1977672710076354, 0, 0.06728900472259135, 0.9403374088217297, -0.3335232336942636, 0, 0.18596796316906467, -0.34024337990684744, -0.9217648068267275, 0, -0.7438718526762587, 1.3609735196273898, 3.68705922730691, 1 ]
+          } ],
+          "name" : "The Main Gate",
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "A gate"
+          }, {
+            "isCorrect" : false,
+            "text" : "An official building"
+          }, {
+            "isCorrect" : false,
+            "text" : "A mosque"
+          }, {
+            "isCorrect" : false,
+            "text" : "A guest house"
+          } ],
+          "prompt" : "What is this building?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.8,
+      "source" : "TajMahal.jpg",
+      "title" : "Taj Mahal, India",
+      "type" : "quiz"
+    },
+    "-L3f-_sv_bQsB5aAmm2g" : {
+      "source" : "TajMahalCloseUp.jpg",
+      "title" : "Taj Mahal (Close Up)"
+    },
+    "-L3f-erwaL34ymQ9OnOo" : {
+      "source" : "TiananmenSquare.jpg",
+      "title" : "Tiananmen Square, China"
+    },
+    "-L3f-h5B_WDZN37QdiLm" : {
+      "source" : "TimesSquareNY.jpg",
+      "title" : "Times Square, NY"
+    },
+    "-L3f-kTtbjEIHmIXxGAi" : {
+      "locInfos" : {
+        "-L441769lIIg9ri2lQ9e" : {
+          "location" : [ {
+            "matrix" : [ 0.9998020800397723, 0, 0.019894741720981757, 0, -0.0035917755480183466, 0.9835678379035391, 0.1805032060384811, 0, -0.019567828100155362, -0.18053893829796858, 0.9833731701961801, 0, 0.07827131240062143, 0.7221557531918742, -3.9334926807847195, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : false,
+            "text" : "Charging Bull"
+          }, {
+            "isCorrect" : true,
+            "text" : "Angry Bull"
+          }, {
+            "isCorrect" : false,
+            "text" : "Wall Street Bull"
+          }, {
+            "isCorrect" : false,
+            "text" : "Bowling Green Bull"
+          } ],
+          "prompt" : "What name is this sculpture NOT known by?",
+          "type" : "mcq"
+        },
+        "-L441c6GDzF0jkH6x1ny" : {
+          "location" : [ {
+            "matrix" : [ 0.9809988083895753, 0, -0.19401375708498877, 0, -0.10632246499677583, 0.8364684512327872, -0.5376021424150313, 0, 0.1622863869067348, 0.5480150819933903, 0.8205745539148381, 0, -0.6491455476269391, -2.192060327973561, -3.2822982156593516, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "The Fearless Girl"
+          }, {
+            "isCorrect" : false,
+            "text" : "The Grizzly Bear"
+          }, {
+            "isCorrect" : false,
+            "text" : "The Magnificent Matador"
+          }, {
+            "isCorrect" : false,
+            "text" : "Another Charging Bull"
+          } ],
+          "prompt" : "What other sculpture appeared here in 2017?",
+          "type" : "mcq"
+        },
+        "-L4427Q88AFsNFtZhprM" : {
+          "location" : [ {
+            "matrix" : [ 0.981168046611832, 0, 0.19315606205325725, 0, -0.0117807614875834, 0.9981383223190525, 0.059842319280588085, 0, -0.19279646772359302, -0.06099089701018647, 0.979341427958196, 0, 0.7711858708943721, 0.2439635880407459, -3.917365711832784, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "The Original Sculptor"
+          }, {
+            "isCorrect" : false,
+            "text" : "New York Stock Exchange"
+          }, {
+            "isCorrect" : false,
+            "text" : "The City of New York"
+          }, {
+            "isCorrect" : false,
+            "text" : "The Federal Reserve"
+          } ],
+          "prompt" : "Who owns this sculpture?",
+          "type" : "mcq"
+        },
+        "-L443CNp-sgWuaBi7voe" : {
+          "location" : [ {
+            "matrix" : [ 0.9911207403162242, 0, -0.13296495070137668, 0, 0.008090239886279006, 0.9981472323514516, 0.06030464797774466, 0, 0.13271859754232634, -0.060844905695852984, 0.989284423872761, 0, -0.5308743901693054, 0.24337962278341194, -3.957137695491044, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Head"
+          }, {
+            "isCorrect" : false,
+            "text" : "Horns"
+          }, {
+            "isCorrect" : false,
+            "text" : "Testicles"
+          }, {
+            "isCorrect" : false,
+            "text" : "Nose"
+          } ],
+          "prompt" : "What part of the bull do people NOT rub for good luck?",
+          "type" : "mcq"
+        },
+        "-L444MjazN4iG0S1TCl1" : {
+          "location" : [ {
+            "matrix" : [ -0.9793845855745076, 0, -0.20200453841201232, 0, -0.003937890142832021, 0.9998099726075005, 0.01909218939284057, 0, 0.20196615201630483, 0.019494067676837167, -0.9791984756754566, 0, -0.8078646080652193, -0.07797627070734867, 3.9167939027018264, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "Broadway"
+          }, {
+            "isCorrect" : false,
+            "text" : "5th Avenue"
+          }, {
+            "isCorrect" : false,
+            "text" : "Wall Street"
+          }, {
+            "isCorrect" : false,
+            "text" : "Park Avenue"
+          } ],
+          "prompt" : "What's the name of this street?",
+          "type" : "mcq"
+        },
+        "-L444yf-iTamjWIJ56sL" : {
+          "location" : [ {
+            "matrix" : [ 0.9702600878394473, 0, -0.24206478873596624, 0, -0.03018107599465409, 0.992196777991848, -0.1209737839137078, 0, 0.24017590344910308, 0.12468180999085454, 0.9626889329683871, 0, -0.9607036137964123, -0.49872723996341817, -3.8507557318735484, 1 ]
+          } ],
+          "options" : [ {
+            "isCorrect" : true,
+            "text" : "London"
+          }, {
+            "isCorrect" : false,
+            "text" : "New York"
+          }, {
+            "isCorrect" : false,
+            "text" : "Amsterdam"
+          }, {
+            "isCorrect" : false,
+            "text" : "Shanghai"
+          } ],
+          "prompt" : "Which of these cities DOESN'T have a bull sculpture by the same sculptor?",
+          "type" : "mcq"
+        }
+      },
+      "rank" : 0.7,
+      "source" : "WallStreetBull.jpg",
+      "title" : "Wall Street Bull, NY",
+      "type" : "quiz"
+    },
+    "-L7gItYi4FpA-m5MtqoD" : {
+      "locInfos" : {
+        "-L7jjcymftJ-Ck36pyMu" : {
+          "location" : [ {
+            "matrix" : [ -0.10204757040807799, 0, -0.9947795199810903, 0, 0.0803793272293872, 0.9967302415802274, -0.00824556084040688, 0, 0.9915268312698148, -0.0808011480080683, -0.10171389950551885, 0, -3.966107325079259, 0.3232045920322732, 0.4068555980220754, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L7jji432psrKJPVUQ2X" : {
+          "location" : [ {
+            "matrix" : [ -0.8806831124378139, 0, -0.4737058744272066, 0, -0.0013062651301164762, 0.9999961979663469, 0.002428523061595988, 0, 0.4737040733815305, 0.0027575447142089587, -0.880679764050983, 0, -1.8948162935261215, -0.011030178856835833, 3.522719056203931, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L7jjuQaJ4AHNRQF7S93" : {
+          "location" : [ {
+            "matrix" : [ 0.11512940062568729, 0, 0.9933505026482697, 0, 0.7813272715917386, 0.617517064669197, -0.09055589163245403, 0, -0.6134108865830308, 0.7865574834952238, 0.0710943695314984, 0, 2.4536435463321227, -3.1462299339808943, -0.28437747812599357, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L7l0_soQwnd6MH8xKVj" : {
+          "location" : [ {
+            "matrix" : [ -0.9999813762348322, 0, -0.006103047066090387, 0, 7.684161974806952E-5, 0.9999207340260435, -0.012590463064708438, 0, 0.006102563302120592, -0.012590697550902925, -0.9999021117371066, 0, -0.024410253208482367, 0.0503627902036117, 3.9996084469484265, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L7l0cXH3vl_npBGVSwr" : {
+          "location" : [ {
+            "matrix" : [ -0.7843934179580425, 0, 0.6202636261011117, 0, -0.02697203761497415, 0.9990540888586941, -0.03410918822870587, 0, -0.6196769118266358, -0.04348479659288827, -0.7836514514848288, 0, 2.478707647306543, 0.1739391863715531, 3.1346058059393154, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L7l0tiVJ2zMDDk0PzTV" : {
+          "location" : [ {
+            "matrix" : [ 0.9391707394413714, 0, -0.34345061097215657, 0, -0.19575672041015793, 0.8216651483557755, -0.53529962674351, 0, 0.2822013972173188, 0.5699705114981667, 0.7716838649544978, 0, -1.128805588869275, -2.2798820459926663, -3.0867354598179904, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L7l11AvSvo6fCNc3QNG" : {
+          "location" : [ {
+            "matrix" : [ -0.9959915709113601, 0, -0.08944713899013745, 0, -0.059677606063919086, 0.7448938925634248, 0.6645085944938477, 0, 0.06662862754102518, 0.6671829500382255, -0.7419080382165234, 0, -0.26651451016410066, -2.6687318001529015, 2.967632152866093, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L7l230aSOvlrsf382t0" : {
+          "location" : [ {
+            "matrix" : [ 0.6004379816522845, 0, 0.7996713263518525, 0, 0.04846333824956544, 0.9981618839226333, -0.036388986379508464, 0, -0.798201437630276, 0.060604071513552994, 0.5993343069447478, 0, 3.192805750521103, -0.24241628605421192, -2.3973372277789906, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L89pCavCUEfOZiQCK3b" : {
+          "location" : [ {
+            "matrix" : [ -0.7442327733711305, 0, -0.6679203388431254, 0, 0.017495160446779446, 0.9996568918466424, -0.019494048949657297, 0, 0.6676911699290751, -0.026193483607763798, -0.743977421038591, 0, -2.6707646797163007, 0.10477393443105522, 2.9759096841543644, 1 ]
+          } ],
+          "type" : "collectible"
+        },
+        "-L89pN7ULZCXlADbJiv8" : {
+          "location" : [ {
+            "matrix" : [ 0.040022367053556315, 0, 0.9991987840942513, 0, -0.0644808696856464, 0.9979156010734379, 0.0025827463719652055, 0, -0.9971160552212632, -0.06453257421054279, 0.03993894447463141, 0, 3.988464220885053, 0.25813029684217115, -0.15975577789852563, 1 ]
+          } ],
+          "type" : "collectible"
+        }
+      },
+      "ownerID" : "-L7bMPGdTeudLDJu6ec4",
+      "rank" : 0.7,
+      "source" : "CedarRiverWA.JPG",
+      "title" : "Cedar River, WA",
+      "type" : "gather"
+    },
+    "-LA-brnHNxHRap8nxfTn" : {
+      "locInfos" : {
+        "-LAZRpGAULErHMHo5DLk" : {
+          "info" : "The Arc de Triomphe honors those who fought and died for France in the French Revolutionary and Napoleonic Wars, with the names of all French victories and generals inscribed on its inner and outer surfaces. Beneath its vault lies the Tomb of the Unknown Soldier from World War I.",
+          "location" : [ {
+            "matrix" : [ 0.9989089116013873, 0, -0.046701031287669975, 0, 0.024813545214654297, 0.847166464858677, 0.5307478391785808, 0, 0.03956354758122983, -0.5313275645200919, 0.8462421313571759, 0, -0.1582541903249193, 2.125310258080367, -3.3849685254287025, 1 ]
+          } ],
+          "name" : "Arc de Triomphe",
+          "type" : "info"
+        },
+        "-LAZU3dJe5E0ljaHqcSL" : {
+          "info" : "The Avenue des Champs-Élysées is an avenue in the 8th arrondissement of Paris, 1.9 kilometres (1.2 mi) long and 70 metres (230 ft) wide, running between the Place de la Concorde and the Place Charles de Gaulle, where the Arc de Triomphe is located. It is known for its theatres, cafés, and luxury shops, for the annual Bastille Day military parade, and as the finish of the Tour de France cycle race. The name is French for the Elysian Fields, the paradise for dead heroes in Greek mythology. Champs-Élysées is widely regarded to be one the most recognizable avenues in the world.",
+          "location" : [ {
+            "matrix" : [ -0.23069796934170875, 0, 0.9730254091962922, 0, -0.02538161186141686, 0.9996597219500307, -0.0060178143959106496, 0, -0.9726943100074804, -0.026085250828528497, -0.23061946788656928, 0, 3.8907772400299216, 0.10434100331411399, 0.9224778715462771, 1 ]
+          } ],
+          "name" : "Champs-Élysées",
+          "type" : "info"
+        }
+      },
+      "ownerID" : "-LA-bLA7gSo_4ggV_wo7",
+      "source" : "ArcdeTriompheParis.jpg",
+      "title" : "Arc de Triomphe, Paris",
+      "type" : "visit"
+    },
+    "-LA-bvoE1i0MQdjF0rpz" : {
+      "locInfos" : {
+        "-LAZ3H_biim2t8Gk-Hk5" : {
+          "info" : "The Louvre museum (Musée du Louvre) is the world's largest art museum and a historic monument in Paris. It is housed inside the Louvre Palace, originally built as a fortress in the late 12th to 13th century under Philip II. It contains more than 380,000 objects and displays 35,000 works of art in eight curatorial departments.",
+          "location" : [ {
+            "matrix" : [ 0.04671989287806442, 0, -0.9989080296050594, 0, -0.008902281509246279, 0.9999602872221323, -4.1636830033972246E-4, 0, 0.9988683601923692, 0.008912013163780447, 0.04671803750133654, 0, -3.995473440769476, -0.03564805265512178, -0.18687215000534613, 1 ]
+          } ],
+          "name" : "Louvre Museum",
+          "type" : "info"
+        },
+        "-LAZ4n4wNZ1qs42C70vL" : {
+          "info" : "The Louvre Pyramid (Pyramide du Louvre) is a large glass and metal pyramid designed by Chinese-American architect I.M. Pei, surrounded by three smaller pyramids, in the main courtyard (Cour Napoléon) of the Louvre Palace (Palais du Louvre) in Paris. The large pyramid serves as the main entrance to the Louvre Museum. Completed in 1989, it has become a landmark of the city of Paris.",
+          "location" : [ {
+            "matrix" : [ 0.9900851161384326, 0, 0.1404687253489065, 0, -0.04724527861260028, 0.9417405548077603, 0.3330054219966843, 0, -0.13228509534321808, -0.3363401959777808, 0.9324033065791132, 0, 0.5291403813728723, 1.3453607839111232, -3.7296132263164528, 1 ]
+          } ],
+          "name" : "Louvre Pyramid",
+          "type" : "info"
+        },
+        "-LAZ8kf8Z0XwwplgLJ2Z" : {
+          "action" : "https://francetravelplanner.com/go/paris/museums/denonwing.html",
+          "info" : "This wing houses the most famous painting in the museum, and arguably the world, La Gioconda (the Mona Lisa). It's a wonderful painting, but be aware that most of what you'll see is people taking selfies and pictures of the painting. In the same room with Mona is the enormous Wedding Feast at Cana, by Veronese. There are also a few more Da Vinci's in this wing, such as the lovely La Belle Ferronniere, or Portrait of an Unknown Woman, beautiful Botticelli frescoes, and other fine Italian and Spanish paintings.",
+          "location" : [ {
+            "matrix" : [ 0.9352698833875486, 0, -0.35393536871615605, 0, 0.08716740542203212, 0.9691985758085703, 0.2303388028158311, 0, 0.34303365528797963, -0.2462805730272675, 0.9064622389758596, 0, -1.3721346211519185, 0.98512229210907, -3.6258489559034386, 1 ]
+          } ],
+          "name" : "Denon Wing",
+          "type" : "info"
+        },
+        "-LAZ9KApfrAoQaicV1da" : {
+          "action" : "https://www.tripadvisor.com/ShowUserReviews-g187147-d188757-r139116862-Louvre_Museum-Paris_Ile_de_France.html",
+          "info" : "The Sully Wing is the oldest part of the Musée du Louvre. It is best known for its antiquities and its focus on the history of the Louvre. It features famous French paintings (third floor) and historical treasures from ancient Greece and Egypt (first and second floors). Famous among the Egyptian sculptures is the Seated Scribe.",
+          "location" : [ {
+            "matrix" : [ -0.23506099708069889, 0, -0.9719806210266888, 0, 0.34260603016461816, 0.9358184550533549, -0.0828548566856086, 0, 0.9095974031109965, -0.3524823671923916, -0.21997441913136082, 0, -3.638389612443985, 1.4099294687695663, 0.879897676525443, 1 ]
+          } ],
+          "name" : "Sully Wing",
+          "type" : "info"
+        },
+        "-LAZBYkhncVovBlVejP1" : {
+          "action" : "https://francetravelplanner.com/go/paris/museums/richelieuwing.html",
+          "info" : "\"The Richelieu wing seems to be the least crowded of the three wings of the Louvre, perhaps because it doesn't include any of the \"big name\" works of art that are found in the Denon or Sully wings. Nonetheless, it has many treasures to explore, such as the apartments of Napoléon III, a sculpture garden, and two sculpture terraces.\"",
+          "location" : [ {
+            "matrix" : [ -0.9046466322253527, 0, -0.4261624934263074, 0, 0.29158272914980515, 0.7292892502140046, -0.6189642167232662, 0, 0.3107957253002024, -0.6842055170212347, -0.6597490641242518, 0, -1.2431829012008095, 2.7368220680849387, 2.6389962564970073, 1 ]
+          } ],
+          "name" : "Richelieu Wing",
+          "type" : "info"
+        }
+      },
+      "nextScene" : "-LA-brnHNxHRap8nxfTn",
+      "ownerID" : "-LA-bLA7gSo_4ggV_wo7",
+      "source" : "LouvreParis.jpg",
+      "title" : "Louvre, Paris",
+      "type" : "visit"
+    }
+  }
+}

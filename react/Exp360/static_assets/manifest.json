@@ -1,0 +1,39 @@
+{
+  "name": "Explorer One - from Redmond Labs",
+  "short_name": "Explorer One",
+  "scope": "/",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait-primary",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "author": "Vinayak (Vin) Bhalerao (vin@redmondlabs.com)",
+  "description": "Don't just tell them your story, immerse them in it using 360 degree panoramas and informative panels. Upload your panoramas, add hotspots and info using our simple to use web UI, and share / embed the panoramas into your website, blog, or social media. Plus, add affiliate links to earn money!",
+  "icons": [
+    {
+      "src": "./android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "appicon.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "appicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "appicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }
+  ]
+}

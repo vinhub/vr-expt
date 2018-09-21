@@ -1,0 +1,36 @@
+<html prefix="og: http://ogp.me/ns#">
+  <head>
+    <title>Explorer360 - Redmond Labs</title>
+    <style>body { margin: 0; }</style>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="manifest" href="./static_assets/manifest.json">
+    <link rel="shortcut icon" href="./static_assets/favicon.ico">
+    <link rel="icon" type="image/png" sizes="32x32" href="./static_assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./static_assets/favicon-16x16.png">
+    <link rel="stylesheet" href="./static_assets/style.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <link rel="apple-touch-icon" sizes="180x180" href="./static_assets/apple-touch-icon.png">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <!--<script src="http://192.168.1.8:8080/target/target-script-min.js#anonymous"></script>-->
+  </head>
+  <body>
+    <!-- Attachment point for your app -->
+    <div id="container"></div>
+    <script src="./client.bundle?platform=vr"></script>
+    <script>
+      // Initialize the React 360 application
+      React360.init(
+        'index.bundle?platform=vr&dev=true',
+        document.getElementById('container'),
+        {
+          assetRoot: 'static_assets/',
+        }
+      );
+    </script>
+    <script async defer src="https://apis.google.com/js/api.js"
+      onload="this.onload=function(){};React360.handleClientLoad()"
+      onreadystatechange="if (this.readyState === 'complete') this.onload()">
+    </script>
+  </body>
+</html>

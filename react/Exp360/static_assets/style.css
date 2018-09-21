@@ -1,0 +1,277 @@
+/* common */
+
+.homeButtonsArea {
+  position:absolute; 
+  left: 2px; 
+  top: 2px;
+  white-space: nowrap;
+}
+
+.homeButton {
+  cursor: pointer; 
+  margin: 2px;
+  padding: 4px 6px 4px 6px;
+  pointer-events: auto; 
+  display: inline-block;
+  /* background: rgba(0, 0, 0, 0.4); */
+  /* border: 1px solid #ffffff; */
+  /* border-radius: 5px; */
+}
+
+.gameTitle {
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #ffffff;
+  vertical-align: middle;
+  margin-left: 4px;
+  text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.appIcon {
+  vertical-align: middle;
+  width: 36px;
+  height: 36px;
+}
+
+.menuButton {
+  float: right;
+  color: #ffffff;
+  cursor: pointer; 
+  height: 30px; 
+  margin: 2px;
+  pointer-events: auto; 
+  width: 30px;
+  display: inline-block;
+  vertical-align: 10;
+  opacity: 1;
+}
+
+.menuPane {
+  position:absolute; 
+  right: 2; 
+  top: 36px;
+  border-radius: 4px; 
+  padding: 4px 4px 0px 4px;        
+  background: rgba(0, 0, 0, 0.8); 
+  cursor: default;
+}
+
+.menuText {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14pt;
+  margin: 0px 4px 0px 4px;
+  color: #ffffff;
+  line-height: 36px;
+  display: inline-block;
+}
+
+.menuText  a {
+  color: #ffffff;
+  cursor: pointer; 
+  pointer-events: auto;
+  text-decoration: none;
+}
+
+.menuText  input {
+  cursor: pointer; 
+  pointer-events: auto;
+}
+
+.menuLoginArea {
+  /* background-color: #666666; */
+}
+
+.menuItemButton {
+  cursor: pointer; 
+  height: 30px; 
+  margin: 0px 6px 0px 6px;
+  pointer-events: auto; 
+  width: 30px;
+  display: inline-block;
+  vertical-align: top;
+  background-color: #000000;
+  z-index: 1;     
+  padding: 2px;     
+}
+
+/* Game UI */
+
+.sceneTitleArea {
+  position:absolute; 
+  left: 50%; 
+  -ms-transform: translateX(-50%); 
+  -webkit-transform: translate(-50%,0%); 
+  transform: translate(-50%,0%); 
+  white-space: nowrap;
+  bottom: 10px;
+  cursor: default;
+}
+
+.sceneTitleDiv {
+  /* background: rgba(0, 0, 0, 0.4);  */
+  /* border: 1px solid #ffffff;  */
+  /* border-radius: 5px;  */
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #ffffff;
+  padding: 4px 6px 4px 6px;
+  margin: 0px 4px 0px 4px;
+}
+
+.sceneTitleText {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #ffffff;
+  margin: 0px 4px 0px 0px;
+  text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.actionButton {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #00ff00;
+  cursor: pointer; 
+  pointer-events: auto;
+  margin: 0px 0px 0px 4px;
+  padding: 2px 4px 2px 4px;
+  font-style: italic;
+  background: rgba(0, 0, 0, 0.6); 
+  border: 1px solid #ffffff;
+  border-radius: 5px; 
+}
+
+.userStatusArea {
+  position:absolute; 
+  right: 2px;
+  top: 2px;    
+  white-space: nowrap;
+  cursor: default;
+}
+
+.userStatusSubArea {
+  margin-left: 2px;
+  display: inline-block;
+}
+
+.userStatus {
+  /* background: rgba(0, 0, 0, 0.4);  */
+  /* border: 1px solid #ffffff;  */
+  /* border-radius: 5px;  */
+  height: 45px;
+  padding: 4px 6px 4px 6px;        
+  display: inline-block;
+}
+
+.userStatusRow {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  /* font-weight: bold; */
+  color: #ffffff;
+  white-space: nowrap;
+  text-shadow:
+    3px 3px 0 #000,
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.prevButtonArea {
+  position:absolute; 
+  left: 4px; 
+  top: 75%; 
+  -ms-transform: translateY(75%); 
+  -webkit-transform: translate(0%,75%); 
+  transform: translate(0%,75%); 
+}
+
+.nextButtonArea {
+  position:absolute; 
+  right: 4px; 
+  top: 75%; 
+  -ms-transform: translateY(75%); 
+  -webkit-transform: translate(0%,75%); 
+  transform: translate(0%,75%); 
+}
+
+.prevNextButton {
+  cursor: pointer;
+  pointer-events: auto; 
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+}
+
+.gameOverPopup {
+  display: none;
+  position:absolute; 
+  left: 50%;
+  top: 50%;    
+  -ms-transform: translateX(-50%); 
+  -ms-transform: translateY(-50%); 
+  -webkit-transform: translate(-50%,-50%); 
+  transform: translate(-50%,-50%); 
+  background: rgba(0, 0, 0, 0.85); 
+  border-radius: 5px; 
+  cursor: default;
+  min-width: 300px; 
+  background-color: #000000;
+}
+
+.gameStatusHeader {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  font-weight: bold;
+  background-color: #cc0000;
+  color: #ffffff;
+  padding: 10px 20px 10px 20px;
+  text-align: center;
+  border-radius: 5px 5px 0px 0px; 
+}
+
+.gameStatusMessage {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  font-weight: bold;
+  color: #00ff00;
+  padding: 10px;
+  text-align: center;
+}
+
+.gameStatusMessage2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+
+.gameOverPopupToolbar {
+  display: flex;
+  justify-content: center;
+}
+
+.gameOverPopupButton {
+  border-radius: 5px; 
+  cursor: pointer; 
+  padding: 5px 10px 5px 10px;
+  margin: 10px 10px 14px 10px;
+  display: inline-block;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16pt;
+  color: #ffffff;
+  background-color: #22aa22;
+  pointer-events: auto; 
+}
