@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>A-Frame / WebXR - Example</title>
+    <!-- Adding aframe -->
+    <script src='https://aframe.io/releases/0.8.2/aframe.min.js'></script>
+    <!-- Adding aframe-extras so we can use the animation mixer component -->
+    <script src='https://cdn.rawgit.com/donmccurdy/aframe-extras/v4.1.2/dist/aframe-extras.min.js'></script>
+    <!-- local versions of both three.xr.js and aframe-xr -->
+    <script src='./lib/three.xr.js'></script>
+    <script src='./lib/aframe-xr.js'></script>
+    <!-- a custom component that allows us to spawn an entity -->
+    <script src='./components/spawn.js'></script>
+  </head>
+  <body>
+    <!-- adding the xr system to inform aframe this is an xr scene -->
+    <a-scene xr>
+      <!-- uploading a gltf model to assets -->
+        <a-assets>
+                <a-asset-item id="robot" src="./public/BrainStem.gltf" >
+        </a-assets>
+
+        <!-- adding the built in reticle component for ar planes  -->
+        <a-entity reticle geometry="primitive: ring; radiusInner: 0.04; radiusOuter: 0.05" material="color: #000077"></a-entity>
+        
+        <!-- a gltf model primitive, adding the animation-mixer for animating the model, 
+        xr to control which realities it is shown in, and spawn to control its spawning abilities -->
+        <a-gltf-model id="model" src='#robot' animation-mixer xr="vr: false; ar:true; magicWindow: true" scale=' 0.2 0.2 0.2' spawn/>
+    </a-scene>
+  </body>
+</html>

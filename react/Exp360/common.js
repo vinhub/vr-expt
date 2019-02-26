@@ -27,41 +27,40 @@ Settings.contentCreatorLevel = 3;
 Settings.adminLevel = 10;
 Settings.tokenUrl = 'https://www.googleapis.com/identitytoolkit/v3/relyingparty/verifyAssertion';
 
-// TODO: Replace these with real values
 if (__DEV__) {
   // Dev settings
-  Settings.dbUrl = '<Provide your own>';
-  Settings.authDomain = '<Provide your own>';
-  Settings.apiKey = '<Provide your own>';
-  Settings.projectId = '<Provide your own>'; 
+  Settings.dbUrl = 'https://localoca-test.firebaseio.com';
+  Settings.authDomain = "localoca-test.firebaseapp.com";
+  Settings.apiKey = "AIzaSyDqYpnYC09KxN6Vv4-kkGMUbpOva9OOvbY";
+  Settings.projectId = "localoca-test"; 
   Settings.storageURI = 'https://firebasestorage.googleapis.com/v0/b/';
-  Settings.storageBucket = '<Provide your own>';
-  Settings.messagingSenderId = '<Provide your own>';
-  Settings.requestUri = '<Provide your own>';
-  Settings.dbSecret = '<Provide your own>';
+  Settings.storageBucket = "localoca-test.appspot.com";
+  Settings.messagingSenderId = "187767104254";
+  Settings.requestUri = 'https://localoca-test.firebaseapp.com/__/auth/handler';
+  Settings.dbSecret = 'fq3lLcl6BJTaR8XJTU814tLwLh6gWn4vS5Ua0AP0';
 
-  Settings.FBAppId = '<Provide your own>';
+  Settings.FBAppId = '1995778514044553';
   
-  Settings.GoogleApiKey = '<Provide your own>';
-  Settings.GoogleClientId = '<Provide your own>';
+  Settings.GoogleApiKey = 'AIzaSyAqZ5l5vyBReq7aQTYMiiZJ22nnB8LT9Yc';
+  Settings.GoogleClientId = '616531422275-oupppvgo7a7h4jjcmc891fqdl10kstaj.apps.googleusercontent.com';
 } else {
   // Production settings
-  Settings.dbUrl = '<Provide your own>';
-  Settings.authDomain = '<Provide your own>';
-  Settings.apiKey = '<Provide your own>';
-  Settings.projectId = '<Provide your own>'; 
+  Settings.dbUrl = 'https://localoca-4c87f.firebaseio.com';
+  Settings.authDomain = "localoca-4c87f.firebaseapp.com";
+  Settings.apiKey = "AIzaSyDwQ7GNBr8g8lUJL3u2431Gyd3_HjYsySw";
+  Settings.projectId = "localoca-4c87f"; 
   Settings.storageURI = 'https://firebasestorage.googleapis.com/v0/b/';
-  Settings.storageBucket = '<Provide your own>';
-  Settings.messagingSenderId = '<Provide your own>';
-  Settings.requestUri = '<Provide your own>';
-  Settings.dbSecret = '<Provide your own>';
+  Settings.storageBucket = "localoca-4c87f.appspot.com";
+  Settings.messagingSenderId = "187767104254";
+  Settings.requestUri = 'https://localoca-4c87f.firebaseapp.com/__/auth/handler';
+  Settings.dbSecret = 'n6XVIJBAuyqgge6WDrF0CSv3t0PWfKiUGsb82ccu';
 
-  Settings.FBAppId = '<Provide your own>';
+  Settings.FBAppId = '436461586770695';
 
-  Settings.GoogleApiKey = '<Provide your own>';
-  Settings.GoogleClientId = '<Provide your own>';
+  Settings.GoogleApiKey = 'AIzaSyAqZ5l5vyBReq7aQTYMiiZJ22nnB8LT9Yc';
+  Settings.GoogleClientId = '616531422275-oupppvgo7a7h4jjcmc891fqdl10kstaj.apps.googleusercontent.com';
   
-  Settings.gaTrackingId = '<Provide your own>';
+  Settings.gaTrackingId = 'UA-113641432-1';
 }
 
 export class MyScene {
